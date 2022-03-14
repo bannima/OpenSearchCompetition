@@ -53,7 +53,7 @@ class Corpus(BaseCorpus):
         # positive samples
         opensearch_dataset["qrels.train"]['label']=1
         # construct random negative samples randomly
-        faked_doc_id = opensearch_dataset["qrels.train"]['doc_id'].sample(frac=1.0,random_state=random_state,ignore_index=True)
+        faked_doc_id = opensearch_dataset["qrels.train"]['doc_id'].sample(frac=1.0,random_state=random_state)
         faked_train= pd.concat([opensearch_dataset["qrels.train"]['query_id'],faked_doc_id],axis=1)
         faked_train['label'] = 0
         dataset = pd.concat([opensearch_dataset["qrels.train"],faked_train],axis=0)

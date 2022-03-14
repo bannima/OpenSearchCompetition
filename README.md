@@ -9,6 +9,13 @@
 
 ### Trials
 
+1. Bert-base-chinese linear
+```angular2html
+>>> python experiments/bert_linear/bert_linear_experiment.py
+```
+
+
+
 
 ### Experiment Results
 
