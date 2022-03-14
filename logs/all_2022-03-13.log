@@ -1,0 +1,301 @@
+[I 220313 17:29:53 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:30:16 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:30:33 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:31:15 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:31:24 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:38:36 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:38:54 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:44:24 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:46:19 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 17:47:58 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 19:54:22 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 19:58:54 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 20:05:04 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 20:14:01 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 20:14:01 data_loader:36]  start preprocess open search dataset 
+[I 220313 20:14:03 data_loader:49]  construct negative samples done
+[I 220313 20:14:37 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 20:14:37 data_loader:36]  start preprocess open search dataset 
+[I 220313 20:14:39 data_loader:49]  construct negative samples done
+[I 220313 20:16:00 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 20:16:00 data_loader:36]  start preprocess open search dataset 
+[I 220313 20:16:01 data_loader:49]  construct negative samples done
+[I 220313 20:20:44 bert_linear_experiment:5]  try bert-base-chinese with linear output 
+[I 220313 20:20:44 data_loader:36]  start preprocess open search dataset 
+[I 220313 20:20:45 data_loader:51]  construct negative samples done
+[I 220313 20:46:37 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:49:54 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:53:13 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:53:13 data_loader:54]  start preprocess open search dataset 
+[I 220313 20:53:15 data_loader:67]  construct negative samples done
+[I 220313 20:53:15 data_loader:79]  train & test split
+[I 220313 20:53:16 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 20:54:15 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:54:15 data_loader:54]  start preprocess open search dataset 
+[I 220313 20:54:17 data_loader:67]  construct negative samples done
+[I 220313 20:55:32 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:55:32 data_loader:54]  start preprocess open search dataset 
+[I 220313 20:55:34 data_loader:67]  construct negative samples done
+[I 220313 20:55:34 data_loader:79]  train & test split
+[I 220313 20:55:35 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 20:55:55 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:55:55 data_loader:54]  start preprocess open search dataset 
+[I 220313 20:55:57 data_loader:67]  construct negative samples done
+[I 220313 20:55:57 data_loader:79]  train & test split
+[I 220313 20:55:58 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 20:55:58 trainer:89] Using CPU ... 
+[I 220313 20:55:58 trainer:114] # Training for epoch: 1 
+[I 220313 20:59:29 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:59:29 data_loader:54]  start preprocess open search dataset 
+[I 220313 20:59:31 data_loader:67]  construct negative samples done
+[I 220313 20:59:31 data_loader:79]  train & test split
+[I 220313 20:59:32 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 20:59:32 trainer:89] Using CPU ... 
+[I 220313 20:59:32 trainer:114] # Training for epoch: 1 
+[I 220313 20:59:46 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 20:59:46 data_loader:54]  start preprocess open search dataset 
+[I 220313 20:59:48 data_loader:67]  construct negative samples done
+[I 220313 20:59:57 data_loader:79]  train & test split
+[I 220313 20:59:58 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 20:59:58 trainer:89] Using CPU ... 
+[I 220313 20:59:58 trainer:114] # Training for epoch: 1 
+[I 220313 21:01:31 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:01:31 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:01:32 data_loader:66]  construct negative samples done
+[I 220313 21:01:32 data_loader:78]  train & test split
+[I 220313 21:01:33 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:01:33 trainer:89] Using CPU ... 
+[I 220313 21:01:33 trainer:114] # Training for epoch: 1 
+[I 220313 21:02:52 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:02:52 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:02:54 data_loader:66]  construct negative samples done
+[I 220313 21:02:54 data_loader:78]  train & test split
+[I 220313 21:02:54 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:02:54 trainer:89] Using CPU ... 
+[I 220313 21:02:54 trainer:114] # Training for epoch: 1 
+[I 220313 21:03:45 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:03:45 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:03:47 data_loader:66]  construct negative samples done
+[I 220313 21:03:47 data_loader:78]  train & test split
+[I 220313 21:03:48 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:03:48 trainer:89] Using CPU ... 
+[I 220313 21:03:48 trainer:114] # Training for epoch: 1 
+[I 220313 21:04:48 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:04:48 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:04:50 data_loader:67]  construct negative samples done
+[I 220313 21:04:50 data_loader:79]  train & test split
+[I 220313 21:04:51 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:04:51 trainer:89] Using CPU ... 
+[I 220313 21:04:51 trainer:114] # Training for epoch: 1 
+[I 220313 21:05:00 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:05:00 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:05:10 data_loader:67]  construct negative samples done
+[I 220313 21:05:10 data_loader:79]  train & test split
+[I 220313 21:05:11 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:05:11 trainer:89] Using CPU ... 
+[I 220313 21:05:11 trainer:114] # Training for epoch: 1 
+[I 220313 21:05:53 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:05:53 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:05:55 data_loader:67]  construct negative samples done
+[I 220313 21:05:55 data_loader:79]  train & test split
+[I 220313 21:05:56 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:05:56 trainer:89] Using CPU ... 
+[I 220313 21:05:56 trainer:114] # Training for epoch: 1 
+[I 220313 21:06:11 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:06:12 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:06:13 data_loader:67]  construct negative samples done
+[I 220313 21:06:13 data_loader:79]  train & test split
+[I 220313 21:06:14 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:06:14 trainer:89] Using CPU ... 
+[I 220313 21:06:14 trainer:114] # Training for epoch: 1 
+[I 220313 21:06:22 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:06:22 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:06:26 data_loader:67]  construct negative samples done
+[I 220313 21:06:26 data_loader:79]  train & test split
+[I 220313 21:06:27 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:06:27 trainer:89] Using CPU ... 
+[I 220313 21:06:27 trainer:114] # Training for epoch: 1 
+[I 220313 21:09:37 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:09:37 data_loader:54]  start preprocess open search dataset 
+[I 220313 21:09:38 data_loader:68]  construct negative samples done
+[I 220313 21:09:38 data_loader:80]  train & test split
+[I 220313 21:09:39 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:09:39 trainer:89] Using CPU ... 
+[I 220313 21:09:39 trainer:114] # Training for epoch: 1 
+[I 220313 21:09:50 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:09:50 data_loader:54]  start preprocess open search dataset 
+[I 220313 21:09:55 data_loader:68]  construct negative samples done
+[I 220313 21:09:55 data_loader:80]  train & test split
+[I 220313 21:09:56 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:09:56 trainer:89] Using CPU ... 
+[I 220313 21:09:56 trainer:114] # Training for epoch: 1 
+[I 220313 21:11:01 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:11:01 data_loader:54]  start preprocess open search dataset 
+[I 220313 21:11:03 data_loader:68]  construct negative samples done
+[I 220313 21:11:03 data_loader:80]  train & test split
+[I 220313 21:11:04 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:11:04 trainer:89] Using CPU ... 
+[I 220313 21:11:04 trainer:114] # Training for epoch: 1 
+[I 220313 21:11:11 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:11:11 data_loader:54]  start preprocess open search dataset 
+[I 220313 21:11:13 data_loader:68]  construct negative samples done
+[I 220313 21:11:13 data_loader:80]  train & test split
+[I 220313 21:11:14 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:11:14 trainer:89] Using CPU ... 
+[I 220313 21:11:14 trainer:114] # Training for epoch: 1 
+[I 220313 21:11:25 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:11:25 data_loader:54]  start preprocess open search dataset 
+[I 220313 21:11:32 data_loader:68]  construct negative samples done
+[I 220313 21:11:32 data_loader:80]  train & test split
+[I 220313 21:11:33 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:11:33 trainer:89] Using CPU ... 
+[I 220313 21:11:33 trainer:114] # Training for epoch: 1 
+[I 220313 21:14:43 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:14:43 data_loader:54]  start preprocess open search dataset 
+[I 220313 21:14:44 data_loader:68]  construct negative samples done
+[I 220313 21:14:44 data_loader:80]  train & test split
+[I 220313 21:14:45 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:14:45 trainer:89] Using CPU ... 
+[I 220313 21:14:45 trainer:114] # Training for epoch: 1 
+[I 220313 21:15:25 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:15:25 data_loader:54]  start preprocess open search dataset 
+[I 220313 21:15:27 data_loader:68]  construct negative samples done
+[I 220313 21:15:27 data_loader:80]  train & test split
+[I 220313 21:15:28 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:15:28 trainer:89] Using CPU ... 
+[I 220313 21:15:28 trainer:114] # Training for epoch: 1 
+[I 220313 21:16:34 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:16:34 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:16:36 data_loader:67]  construct negative samples done
+[I 220313 21:16:36 data_loader:79]  train & test split
+[I 220313 21:16:37 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:16:37 trainer:89] Using CPU ... 
+[I 220313 21:16:37 trainer:114] # Training for epoch: 1 
+[I 220313 21:16:55 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:16:55 data_loader:53]  start preprocess open search dataset 
+[I 220313 21:16:57 data_loader:67]  construct negative samples done
+[I 220313 21:16:57 data_loader:79]  train & test split
+[I 220313 21:16:58 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:16:58 trainer:89] Using CPU ... 
+[I 220313 21:16:58 trainer:114] # Training for epoch: 1 
+[I 220313 21:18:33 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:18:33 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:18:34 data_loader:66]  construct negative samples done
+[I 220313 21:18:34 data_loader:78]  train & test split
+[I 220313 21:18:35 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:18:35 trainer:89] Using CPU ... 
+[I 220313 21:18:35 trainer:114] # Training for epoch: 1 
+[I 220313 21:18:52 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:18:52 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:18:54 data_loader:66]  construct negative samples done
+[I 220313 21:18:54 data_loader:78]  train & test split
+[I 220313 21:18:55 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:18:55 trainer:89] Using CPU ... 
+[I 220313 21:18:55 trainer:114] # Training for epoch: 1 
+[I 220313 21:19:11 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:19:11 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:19:13 data_loader:66]  construct negative samples done
+[I 220313 21:19:13 data_loader:78]  train & test split
+[I 220313 21:19:14 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:19:14 trainer:89] Using CPU ... 
+[I 220313 21:19:14 trainer:114] # Training for epoch: 1 
+[I 220313 21:20:11 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:20:11 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:20:13 data_loader:66]  construct negative samples done
+[I 220313 21:20:13 data_loader:78]  train & test split
+[I 220313 21:20:14 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:20:14 trainer:89] Using CPU ... 
+[I 220313 21:20:14 trainer:114] # Training for epoch: 1 
+[I 220313 21:21:57 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:21:57 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:21:59 data_loader:66]  construct negative samples done
+[I 220313 21:21:59 data_loader:78]  train & test split
+[I 220313 21:22:00 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:22:00 trainer:89] Using CPU ... 
+[I 220313 21:22:00 trainer:114] # Training for epoch: 1 
+[I 220313 21:23:12 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:23:12 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:23:14 data_loader:66]  construct negative samples done
+[I 220313 21:23:14 data_loader:78]  train & test split
+[I 220313 21:23:15 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:23:15 trainer:89] Using CPU ... 
+[I 220313 21:23:15 trainer:114] # Training for epoch: 1 
+[I 220313 21:23:48 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:23:48 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:23:49 data_loader:66]  construct negative samples done
+[I 220313 21:23:49 data_loader:78]  train & test split
+[I 220313 21:23:50 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:23:50 trainer:89] Using CPU ... 
+[I 220313 21:23:50 trainer:114] # Training for epoch: 1 
+[I 220313 21:24:45 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:24:45 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:24:47 data_loader:66]  construct negative samples done
+[I 220313 21:24:47 data_loader:78]  train & test split
+[I 220313 21:24:48 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:24:48 trainer:89] Using CPU ... 
+[I 220313 21:24:48 trainer:114] # Training for epoch: 1 
+[I 220313 21:25:08 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:25:08 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:25:10 data_loader:66]  construct negative samples done
+[I 220313 21:25:10 data_loader:78]  train & test split
+[I 220313 21:25:11 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:25:11 trainer:89] Using CPU ... 
+[I 220313 21:25:11 trainer:114] # Training for epoch: 1 
+[I 220313 21:25:31 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:25:31 data_loader:52]  start preprocess open search dataset 
+[I 220313 21:25:33 data_loader:66]  construct negative samples done
+[I 220313 21:25:33 data_loader:78]  train & test split
+[I 220313 21:25:34 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:25:34 trainer:89] Using CPU ... 
+[I 220313 21:25:34 trainer:114] # Training for epoch: 1 
+[I 220313 21:33:59 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:33:59 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:34:01 data_loader:65]  construct negative samples done
+[I 220313 21:34:01 data_loader:77]  train & test split
+[I 220313 21:34:02 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:34:02 trainer:89] Using CPU ... 
+[I 220313 21:34:02 trainer:114] # Training for epoch: 1 
+[I 220313 21:36:57 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:36:57 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:36:59 data_loader:65]  construct negative samples done
+[I 220313 21:36:59 data_loader:77]  train & test split
+[I 220313 21:37:00 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:37:00 trainer:89] Using CPU ... 
+[I 220313 21:37:00 trainer:114] # Training for epoch: 1 
+[I 220313 21:38:00 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:38:00 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:38:02 data_loader:65]  construct negative samples done
+[I 220313 21:38:02 data_loader:77]  train & test split
+[I 220313 21:38:03 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:38:03 trainer:89] Using CPU ... 
+[I 220313 21:38:03 trainer:114] # Training for epoch: 1 
+[I 220313 21:38:19 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:38:19 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:38:21 data_loader:65]  construct negative samples done
+[I 220313 21:38:21 data_loader:77]  train & test split
+[I 220313 21:38:22 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:38:22 trainer:89] Using CPU ... 
+[I 220313 21:38:22 trainer:114] # Training for epoch: 1 
+[I 220313 21:39:06 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:39:06 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:39:07 data_loader:65]  construct negative samples done
+[I 220313 21:39:07 data_loader:77]  train & test split
+[I 220313 21:39:08 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:39:08 trainer:89] Using CPU ... 
+[I 220313 21:39:08 trainer:114] # Training for epoch: 1 
+[I 220313 21:39:34 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:39:34 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:39:35 data_loader:65]  construct negative samples done
+[I 220313 21:39:36 data_loader:77]  train & test split
+[I 220313 21:39:36 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:39:36 trainer:89] Using CPU ... 
+[I 220313 21:39:36 trainer:114] # Training for epoch: 1 
+[I 220313 21:43:57 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:43:57 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:44:15 bert_linear_experiment:13]  try bert-base-chinese with linear output 
+[I 220313 21:44:16 data_loader:51]  start preprocess open search dataset 
+[I 220313 21:44:17 data_loader:65]  construct negative samples done
+[I 220313 21:44:17 data_loader:77]  train & test split
+[I 220313 21:44:18 bert_linear_experiment:25]  BertBaseLinear initialized 
+[I 220313 21:44:18 trainer:89] Using CPU ... 
+[I 220313 21:44:18 trainer:114] # Training for epoch: 1 
