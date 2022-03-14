@@ -291,8 +291,8 @@ class Trainer():
         # move logits and labels to GPU
         logits = outputs.detach().cpu().numpy()
         label_ids = labels.to("cpu")
-        #y_pred = np.argmax(logits, axis=1).flatten()
-        y_pred = np.int64(logits>0.5).squeeze() #默认为二分类问题，大于0.5则为1，否则为0
+        y_pred = np.argmax(logits, axis=1).flatten() #取概率最大的列作为预测label
+        #y_pred = np.int64(logits>0.5).squeeze() #默认为二分类问题，大于0.5则为1，否则为0
         return y_pred, label_ids
 
     def calc_loss(self, outputs, labels):
